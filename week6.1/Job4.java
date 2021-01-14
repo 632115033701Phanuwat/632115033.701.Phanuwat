@@ -1,4 +1,4 @@
-//Phanuwat Panya 6302115033
+
 
 public class Job4 extends Person{
     String job4;
